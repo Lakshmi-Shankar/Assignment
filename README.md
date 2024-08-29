@@ -1,4 +1,4 @@
 # Assignment
 Hello Folks,
 
-  Welcome to the class.
+  Welcome to the test.
